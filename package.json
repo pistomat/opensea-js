@@ -37,7 +37,7 @@
   },
   "types": "lib/index.d.ts",
   "dependencies": {
-    "@opensea/seaport-js": "^2.0.0",
+    "@opensea/seaport-js": "https://github.com/pistomat/seaport-js",
     "ethers": "^5.7.2"
   },
   "devDependencies": {
